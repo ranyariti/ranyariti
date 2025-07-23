@@ -10,10 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/122858865?v=4" width="150" alt="Ranya Riti Profile Picture" style="border-radius: 50%;">
-</p>
-
 <hr>
 
 <h2>🧾 About Me</h2>
@@ -22,24 +18,6 @@
   My interests lie in backend development, artificial intelligence, and building scalable systems.<br>
   I am passionate about solving real-world problems using code and collaborating on impactful tech projects.
 </p>
-
-<h2>🔬 Areas of Interest</h2>
-<ul>
-  <li>Backend Development & RESTful APIs</li>
-  <li>Deep Learning & Computer Vision</li>
-  <li>IoT-based Safety & Smart Devices</li>
-  <li>Full Stack Web Development (MERN Stack)</li>
-</ul>
-
-<h2>📌 Highlighted Projects</h2>
-<ul>
-  <li><strong>🧠 <a href="https://github.com/ranyariti/Medicinal_Leaves_Identification_PerNet">Medicinal_Leaves_Identification_PerNet</a></strong> — Deep learning model for medicinal plant classification. Published at ICICC 2025.</li>
-  <li><strong>🏥 <a href="https://github.com/ranyariti/Hospital_Management_System">Hospital_Management_System</a></strong> — MERN stack application for scheduling and patient record management.</li>
-  <li><strong>📸 <a href="https://github.com/ranyariti/image_captioning_project">Image Captioning Project</a></strong> — AI-based model to generate textual descriptions of images.</li>
-  <li><strong>📊 <a href="https://github.com/ranyariti/food-hub-project">Food Hub Project</a></strong> — Data analysis project for food service trends using Python.</li>
-  <li><strong>🛡️ <a href="https://github.com/ranyariti/Contact-Tracing-with-Machine-Learning">Contact Tracing with ML</a></strong> — ML project to assess exposure risks during health outbreaks.</li>
-</ul>
-
 <h2>🛠️ Tools & Technologies</h2>
 
 <p align="center">
@@ -60,6 +38,22 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+<h2>🔬 Areas of Interest</h2>
+<ul>
+  <li>Backend Development & RESTful APIs</li>
+  <li>Deep Learning & Computer Vision</li>
+  <li>IoT-based Safety & Smart Devices</li>
+  <li>Full Stack Web Development (MERN Stack)</li>
+</ul>
+
+<h2>📌 Highlighted Projects</h2>
+<ul>
+  <li><strong>🧠 <a href="https://github.com/ranyariti/Medicinal_Leaves_Identification_PerNet">Medicinal_Leaves_Identification_PerNet</a></strong> — Deep learning model for medicinal plant classification. Published at ICICC 2025.</li>
+  <li><strong>🏥 <a href="https://github.com/ranyariti/Hospital_Management_System">Hospital_Management_System</a></strong> — MERN stack application for scheduling and patient record management.</li>
+  <li><strong>📸 <a href="https://github.com/ranyariti/image_captioning_project">Image Captioning Project</a></strong> — AI-based model to generate textual descriptions of images.</li>
+  <li><strong>📊 <a href="https://github.com/ranyariti/food-hub-project">Food Hub Project</a></strong> — Data analysis project for food service trends using Python.</li>
+  <li><strong>🛡️ <a href="https://github.com/ranyariti/Contact-Tracing-with-Machine-Learning">Contact Tracing with ML</a></strong> — ML project to assess exposure risks during health outbreaks.</li>
+</ul>
 
 <h2>📈 GitHub Stats</h2>
 
