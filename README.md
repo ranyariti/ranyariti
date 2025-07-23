@@ -2,18 +2,12 @@
 
 <!--
 **ranyariti/ranyariti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm **Ranya Riti**, a final-year B.Tech student in Computer Science and Engineering at Sharda University.
 
-Here are some ideas to get you started:
+I specialize in backend development and have a growing interest in artificial intelligence, IoT-based safety systems, and scalable full-stack applications. My academic and project work reflect a strong foundation in data structures, system design, and applied machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
 <h1 align="center">Welcome! I'm Ranya Riti</h1>
 <h3 align="center">📌 Final Year CSE Student | Backend & ML Developer | Focused on Impactful Tech</h3>
 
@@ -25,11 +19,17 @@ Here are some ideas to get you started:
 ---
 
 ### 👩‍💻 About Me
-- 🎓 I’m a 3rd-year B.Tech student passionate about **backend development**
+- 🎓 I’m a 4th-year B.Tech student passionate about **backend development**
 - 🌱 Currently exploring **AI, Deep Learning, and Full Stack Systems**
 - 🚀 I enjoy building scalable and efficient systems
 - 💼 Check out my latest project: [Medicinal_Leaves_Identification_PerNet](https://github.com/ranyariti/Medicinal_Leaves_Identification_PerNet)
+---
 
+### 🔬 Areas of Interest:
+- Backend Development & RESTful APIs
+- Deep Learning & Computer Vision
+- Internet of Things (IoT) for real-world applications
+- Full Stack Web Development (MERN stack)
 ---
 
 ### 🧠 Technologies & Tools
